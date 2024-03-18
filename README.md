@@ -1,1 +1,1 @@
-# Assign-01-Swift-comparisonTool
+[![SwiftLint](https://github.com/ICS4U-Programming-Kent-Gatera/Assign-01-Swift-comparisonTool/workflows/SwiftLint/badge.svg)](https://github.com/ICS4U-Programming-Kent-Gatera/Assign-01-Swift-comparisonTool/actions) 
